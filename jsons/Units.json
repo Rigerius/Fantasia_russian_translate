@@ -1,4 +1,6 @@
 {
-	"Scout": {
-		"uniques": ["Начинает с навыком [Ignore terrain cost]"]
+  "Scout": {
+    "uniques": ["Игнорирует штрафы местности"],
+    "promotions": ["Ignore terrain cost"]
+  }
 }
