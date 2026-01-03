@@ -11,5 +11,5 @@
 		"civilopediaText": [
 			{"text": "The eyes and ears of early civilizations. This unit is supposed to find the lay of the land, discovering any potential threats or treasures."}
 		],
-        "promotions": ["Ignore terrain cost"]
-	}
+	"prerequisites": ["Ignore terrain cost"]
+}
