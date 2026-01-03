@@ -1,4 +1,4 @@
 {
 	"Scout": {
-		"promotions": ["Ignore terrain cost"]
+		"uniques": ["Начинает с навыком [Ignore terrain cost]"]
 }
