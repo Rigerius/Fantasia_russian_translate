@@ -8,10 +8,10 @@
 		"upgradesTo": "Ranger",
 		"obsoleteTech": "Theology",
 		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
 			{"text": "The eyes and ears of early civilizations. This unit is supposed to find the lay of the land, discovering any potential threats or treasures."}
-		],
-	    "promotions": ["Ignore terrain cost"]
-    },
+		]
+    }
 ]
