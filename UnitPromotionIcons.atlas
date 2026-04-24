@@ -1,0 +1,12 @@
+UnitPromotionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitPromotionIcons/Petrified Troll
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
