@@ -1,0 +1,12 @@
+UnitIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/Petrified Troll
+  rotate: false
+  xy: 5, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
