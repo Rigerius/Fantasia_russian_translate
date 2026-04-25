@@ -40,5 +40,26 @@
 		"civilopediaText": [
 			{"text": "These troll assault troops, upgraded with the latest troll weaponry, easily broke into cities and wreaked utter havoc there."}
 		]
+	},
+
+	{
+		"name": "Cyborg Troll",
+		"unitType": "Construct",
+		"replaces": "Carbon-Fiber Golem",
+		"uniqueTo": "The Trolls",
+		"movement": 2,
+		"strength": 75,
+		"cost": 360,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Adamantium",
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>",
+					"[+10]% Strength <when attacking>",
+					"Can pass through impassable tiles",
+					"Preachable"],
+		"promotions": ["Troll's Skin", "Tortoise"],
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "The ultimate troll warrior. Secret scientific developments and armored plates are implanted in his body, and with the help of alchemy, the trolls have managed to enhance his physiological characteristics."}
+		]
 	}
 ]
