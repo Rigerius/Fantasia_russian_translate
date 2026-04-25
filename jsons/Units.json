@@ -17,5 +17,28 @@
 		"civilopediaText": [
 			{"text": "Some troll species cannot stand the light of the sun and become petrified, however, due to the special ferocity of these species, trolls have been trying for many years to revive their petrified brethren. And one day, the alchemists managed to partially free several ferocious warriors from stone captivity, and since then their kind have played an important role in the military operations of the trolls."}
 		]
+	},
+
+	{
+		"name": "Assault Troll",
+		"unitType": "Construct",
+		"replaces": "Adamantite Golem",
+		"uniqueTo": "The Trolls",
+		"movement": 2,
+		"strength": 37,
+		"cost": 260,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Carbon-Fiber Golem",
+		"requiredResource": "Adamantium",
+		"uniques": ["[+100]% Strength <vs cities> <when attacking>",
+					"[-1] Sight",
+					"Can pass through impassable tiles",
+					"Preachable"],
+		"promotions": ["Troll's Skin", "Tortoise"],
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "These troll assault troops, upgraded with the latest troll weaponry, easily broke into cities and wreaked utter havoc there."}
+		]
 	}
 ]
