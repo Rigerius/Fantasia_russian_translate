@@ -17,3 +17,24 @@ UnitIcons/Assault Troll
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Cyborg Troll
+  rotate: false
+  xy: 415, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Troll Catapult
+  rotate: false
+  xy: 620, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Trebuchet
+  rotate: false
+  xy: 825, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
