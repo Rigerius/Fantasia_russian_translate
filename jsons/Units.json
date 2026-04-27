@@ -61,5 +61,48 @@
 		"civilopediaText": [
 			{"text": "The ultimate troll warrior. Secret scientific developments and armored plates are implanted in his body, and with the help of alchemy, the trolls have managed to enhance his physiological characteristics."}
 		]
+	},
+
+	{
+		"name": "Troll Catapult",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "The Trolls",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 6,
+		"cost": 60,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["Must set up to ranged attack",
+					"Can pass through impassable tiles",
+					"Withdraws before melee combat <with [33]% chance>"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw",
+		"civilopediaText": [
+			{"text": "Located on the back of a huge troll is a platform with several engineers and troll warriors of smaller sizes and a small catapult. This system has good maneuverability and maneuverability, but is inferior in attack efficiency."}
+		]
+	},
+
+	{
+		"name": "Giant Trebuchet",
+		"unitType": "Siege",
+		"replaces": "Trebuchet",
+		"uniqueTo": "The Trolls",
+		"movement": 2,
+		"strength": 11,
+		"rangedStrength": 22,
+		"cost": 160,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Cannon",
+		"uniques": ["No defensive terrain bonus",
+					"Must set up to ranged attack",
+					"[+50]% Strength <vs cities> <when attacking>"],
+		"attackSound": "throw",
+		"civilopediaText": [
+			{"text": "A huge war machine being dragged by 4 giant trolls at once. Two more charge it, and how many smaller individuals manage and perform minor work cannot be counted. But the result of this titanic work is amazing - with one shot, this trebuchet destroys entire detachments."}
+		]
 	}
 ]
